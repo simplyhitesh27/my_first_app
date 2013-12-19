@@ -2,12 +2,9 @@ sdfdsfdsfds
 
 whatever
 
-Conflict1
-
 <<<<<<< HEAD
-Test
+Conflict1
 =======
-asdasasda
 
-Now in master
+asdasasda
 >>>>>>> 4c1ef4b6cb1ae203dad0774fa806ceab335751ba
