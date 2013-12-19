@@ -4,4 +4,6 @@ whatever
 
 Conflict1
 
-Test
+asdasasda
+
+Now in master
